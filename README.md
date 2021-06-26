@@ -1,2 +1,2 @@
-"# funny funny" 
+
 # funny funny  
